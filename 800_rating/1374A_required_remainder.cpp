@@ -11,3 +11,4 @@ int main(){
         t--;
     }
 }
+// this could have been solve from loop but will give TLE.
