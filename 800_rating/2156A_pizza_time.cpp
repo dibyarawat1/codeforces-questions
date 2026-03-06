@@ -14,4 +14,4 @@ int main(){
         t--;
     }
 }
-/*in this question it was simple ap yaar bus samj mai ana chahiye*/
+/*in this question it was simple AP yaar bus samj mai ana chahiye*/
