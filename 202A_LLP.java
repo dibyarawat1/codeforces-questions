@@ -11,7 +11,7 @@ public class 202A_LLP{
         StringBuilder result = new StringBuilder();
         for(int i = 0 ; i < str.length() ; i++){
             char current = str.charAt(i);
-            if(current >maxChar){
+            if(current > maxChar){
                 maxChar = str.charAt(i);
                 count = 1;
             }
