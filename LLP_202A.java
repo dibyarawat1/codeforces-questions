@@ -3,7 +3,8 @@ public class LLP_202A{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         if(!sc.hasNext()){
-            return;
+            sc.close();
+           return;
         }
         String str   = sc.next();
         char maxChar = 'a';
