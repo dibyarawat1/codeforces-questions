@@ -4,7 +4,7 @@ public class Homework {
         Scanner sc=  new Scanner(System.in);
         int t = sc.nextInt();
         while(t>0){
-            int n = sc.nextInt();
+            // int n = sc.nextInt();
             String a = sc.next();
             int m = sc.nextInt();
             String  b = sc.next();
